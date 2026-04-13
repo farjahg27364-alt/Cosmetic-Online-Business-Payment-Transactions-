@@ -52,3 +52,8 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 Microsoft Excel
 Power BI / Tableau
 
+**Author**
+Farjah Arshad 
+Iqra University 
+
+
