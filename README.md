@@ -5,31 +5,31 @@ This dataset contains real-world payment transactions from an online cosmetic bu
 
 **Column Name And Description**
 
-*Time & Date	      Date and time when the transaction occurred
+*Time & Date: 	      Date and time when the transaction occurred
 
-*Currency	          Currency used for the transaction (e.g., INR)
+*Currency:	          Currency used for the transaction (e.g., INR)
 
-*Amount	            Total transaction amount
+*Amount:	            Total transaction amount
 
-*Payment Type       Type of payment (e.g., Card, UPI, Cash)
+*Payment Type"        Type of payment (e.g., Card, UPI, Cash)
 
-*Payment Provider   Platform used for payment (e.g., Paytm, Razorpay)
+*Payment Provider:    Platform used for payment (e.g., Paytm, Razorpay)
 
-*City	              Customer’s city
+*City:	              Customer’s city
 
-*Order Type	        Type of order (e.g., Online, In-store)
+*Order Type:	        Type of order (e.g., Online, In-store)
 
-*Order ID	          Unique identifier for each order
+*Order ID:	          Unique identifier for each order
 
-*Name	              Customer name
+*Name:	              Customer name
 
-*Quantity	          Number of items purchased
+*Quantity:	          Number of items purchased
 
-*Discount	          Discount applied to the transaction (if any)
+*Discount:	          Discount applied to the transaction (if any)
 
-*Shipping	          Shipping charges applied
+*Shipping:	          Shipping charges applied
 
-*Status	            Transaction status (e.g., Successful, Failed, Pending)
+*Status:	            Transaction status (e.g., Successful, Failed, Pending)
 
 **Purpose of the Dataset:**
 
