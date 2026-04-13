@@ -3,7 +3,7 @@ This dataset contains real-world payment transactions from an online cosmetic bu
 
 **Dataset Columns**:
 
-**Column Name**  	      **Description**
+**Column Name And Description**
 Time & Date	      Date and time when the transaction occurred
 Currency	      Currency used for the transaction (e.g., INR)
 Amount	          Total transaction amount
